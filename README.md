@@ -1,7 +1,7 @@
 # RFID Pay
    Projeto de WoT para efetuação de pagamentos em geral utilizando RFID.
 
-## Nome do grupo (se houver)
+## Nome do grupo
    RFID Pay
 
 ## Nomes de cada membro do grupo
