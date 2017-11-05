@@ -5,9 +5,13 @@
    RFID Pay
 
 ## Nomes de cada membro do grupo
+
 Jonas Lins
+
 Hiro Miyakawa
+
 Paulo Vaz
+
 
 ## Big Idea
    FinTech
