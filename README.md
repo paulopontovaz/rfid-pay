@@ -4,7 +4,7 @@
 ## Nome do grupo
    RFID Pay
 
-## Nomes de cada membro do grupo
+## Equipe
 
 Jonas Lins
 
